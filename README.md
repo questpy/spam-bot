@@ -1,0 +1,4 @@
+- Launch main.py,
+- enter the message of your choice,
+- then choose how many times you want it to be sent.
+- Start it, and immediately afterwards, click on the location where you want to spam the message
